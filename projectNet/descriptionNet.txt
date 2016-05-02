@@ -1,0 +1,18 @@
+#leukemia network
+AMLNet 1
+
+#dataset
+AMLtrpat:training pattern
+AMLtspat:testing pattern
+
+#Input layer
+20055 units
+
+#hidden layer 1
+200 units
+
+#hidden layer 2
+10 units
+
+#output
+1
