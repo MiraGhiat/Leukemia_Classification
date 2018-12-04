@@ -2,7 +2,7 @@
   Net1.h
   --------------------------------------------------------
   generated at Fri Feb 21 14:15:33 2014
-  by snns2c ( Bernward Kett 1995 ) 
+  
 *********************************************************/
 
 extern int Net1(float *in, float *out, int init);
